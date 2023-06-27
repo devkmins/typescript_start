@@ -1,0 +1,14 @@
+{
+  "name": "typescript_start",
+  "version": "1.0.0",
+  "description": "TypeScript에 대해 학습합니다.",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
